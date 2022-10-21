@@ -88,3 +88,7 @@ Completing the project involves several steps:
 For more detail about each of these steps, see the project lesson.
 
 New lines to test Codepipeline
+
+Env File Content
+JWT_SECRET='myjwtsecret'
+LOG_LEVEL=DEBUG
